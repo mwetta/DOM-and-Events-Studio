@@ -61,19 +61,3 @@ function flightControl (direction) {
     }
     setPosition(currentPosition);
 }
-
-
-
-    // const leftButton = document.querySelector('#left');
-    // const rightButton = document.querySelector('#right');
-    // let left = 0;
-    // let right = 0;
-
-
-    // leftButton.addEventListener('click', () =>{
-    //     left += 10;
-    //     right -= 10;
-    //     rocket.style.left = `${left}px`;
-    // })
-
-    // rocket.style.bottom += 
